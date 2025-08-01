@@ -4,7 +4,7 @@ A Customized Fake News Detection System Built Using Streamlit With SpaCy NLP Pip
 
 ---
 
-### 🔍 Features:
+###  Features:
 - Detect Fake News for COVID and Afghanistan Crisis  
 - Sign In / Log In  
 - View History  
@@ -12,7 +12,7 @@ A Customized Fake News Detection System Built Using Streamlit With SpaCy NLP Pip
 
 ---
 
-### 📦 To Enable 'View History' Feature:
+###  To Enable 'View History' Feature:
 
 1. Download and launch **XAMPP** server.  
 2. In the XAMPP control panel, start **Apache** and **MySQL**.  
@@ -26,4 +26,5 @@ A Customized Fake News Detection System Built Using Streamlit With SpaCy NLP Pip
 
 ---
 
-Happy Coding! 🚀
+Happy Coding! 
+
